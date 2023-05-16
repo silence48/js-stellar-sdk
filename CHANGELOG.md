@@ -10,7 +10,7 @@ A breaking change will get clearly marked in this log.
 
 ### Update
 
-- Bundle size has decreased by dropping unnecessary dependencies ([#823](https://github.com/stellar/js-stellar-sdk/pull/823), [#825](https://github.com/stellar/js-stellar-sdk/pull/825)).
+- Bundle size has decreased by dropping unnecessary dependencies (`lodash`: [#822](https://github.com/stellar/js-stellar-sdk/pull/822), `es6-promise`: [#823](https://github.com/stellar/js-stellar-sdk/pull/823), polyfills: [#825](https://github.com/stellar/js-stellar-sdk/pull/825), `uri.js`: [TODO]()).
 
 - Dependencies (including `stellar-base`) have been updated to their latest versions ([#825](https://github.com/stellar/js-stellar-sdk/pull/825), [#827](https://github.com/stellar/js-stellar-sdk/pull/827)).
 
